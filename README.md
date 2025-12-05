@@ -57,7 +57,7 @@ Download & Installation
 
 No installation required.
 
-🛠 Technologies Used
+Technologies Used
 
 - Unity 3D (2023)
 - C# scripting
