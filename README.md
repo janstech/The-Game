@@ -1,7 +1,7 @@
 🇬🇧 The Game – README
 Overview
 
-The Game is a third-person Unity 3D action project built as my first larger game development exercise.
+The Game is a first-person Unity 3D action project built as my first larger game development exercise.
 The project showcases game mechanics, AI behavior, NavMesh pathfinding, level design, particle effects, physics interactions and UI systems implemented in C#.
 
 The game contains:
@@ -87,7 +87,7 @@ Portfolio: https://janstech.github.io
 🇫🇮 The Game – README
 Yleiskuvaus
 
-The Game on third-person Unity 3D -toimintaprojekti, jonka rakensin ensimmäisenä laajempana pelikehitysharjoituksenani.
+The Game on first-person Unity 3D -toimintaprojekti, jonka rakensin ensimmäisenä laajempana pelikehitysharjoituksenani.
 Projekti esittelee pelilogiikkaa, tekoälyä, NavMesh-reitinetsintää, tason suunnittelua, partikkeliefektejä, fysiikkaobjekteja sekä UI-järjestelmiä, jotka on toteutettu C#:lla.
 
 Peli sisältää:
