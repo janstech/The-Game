@@ -79,11 +79,13 @@ Contact
 
 If you have questions about the project or my development work, feel free to contact me:
 
-LinkedIn: https://linkedin.com/in/jan-sarivuo
-Portfolio: https://janstech.github.io
 
 All C# scripts can be found here:
 👉 [Scripts Folder](https://github.com/janstech/The-Game/tree/main/Scripts)
+
+LinkedIn: https://linkedin.com/in/jan-sarivuo
+Portfolio: https://janstech.github.io
+
 
 
 
@@ -166,8 +168,9 @@ Repository-rakenne
 
 Jos sinulla on kysyttävää projektista tai kehitystyöstäni:
 
-LinkedIn: https://linkedin.com/in/jan-sarivuo
-Portfolio: https://janstech.github.io
 
 👉 [Kaikki C#-skriptit löytyvät täältä](https://github.com/janstech/The-Game/tree/main/Scripts) 
+
+LinkedIn: https://linkedin.com/in/jan-sarivuo
+Portfolio: https://janstech.github.io
 
