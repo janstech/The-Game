@@ -17,7 +17,7 @@ The game contains:
 
 Features
 
-- Third-person player controller
+- First-person player controller
 - Enemy AI with detection & chasing
 - NavMesh-based navigation
 - Projectile & laser weapon system
@@ -103,7 +103,7 @@ Peli sisältää:
 
 Ominaisuudet
 
-- Third-person pelihahmon ohjaus
+- First-person pelihahmon ohjaus
 - Vihollis-AI, joka havaitsee ja jahtaa pelaajaa
 - NavMesh-pohjainen navigointi
 - Projektiili- ja laser-asejärjestelmä
