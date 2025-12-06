@@ -75,19 +75,18 @@ Repository Structure
 - /Scenes
 - /Game_Build
 
+All C# scripts can be found here:
+👉 [Scripts Folder](https://github.com/janstech/The-Game/tree/main/Scripts)
+
 Contact
 
 If you have questions about the project or my development work, feel free to contact me:
-
-
-All C# scripts can be found here:
-👉 [Scripts Folder](https://github.com/janstech/The-Game/tree/main/Scripts)
 
 LinkedIn: https://linkedin.com/in/jan-sarivuo
 Portfolio: https://janstech.github.io
 
 
-*********************************************
+**************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 
 🇫🇮 The Game – README
@@ -164,12 +163,11 @@ Repository-rakenne
 - /Scenes
 - /Game_Build
 
+👉 [Kaikki C#-skriptit löytyvät täältä](https://github.com/janstech/The-Game/tree/main/Scripts) 
+
 Yhteystiedot
 
 Jos sinulla on kysyttävää projektista tai kehitystyöstäni:
-
-
-👉 [Kaikki C#-skriptit löytyvät täältä](https://github.com/janstech/The-Game/tree/main/Scripts) 
 
 LinkedIn: https://linkedin.com/in/jan-sarivuo
 Portfolio: https://janstech.github.io
