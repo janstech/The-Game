@@ -164,7 +164,7 @@ Repository-rakenne
 - /Scenes
 - /Game_Build
 
-- Yhteystiedot
+Yhteystiedot
 
 Jos sinulla on kysyttävää projektista tai kehitystyöstäni:
 
